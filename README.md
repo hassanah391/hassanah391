@@ -6,8 +6,8 @@
 ![Img](https://media2.giphy.com/media/1wpaCOVdglMSYgjCum/giphy.gif?cid=ecf05e47jcvmvzul8o7phezhrfwlq5qwnkz0ol4upm7ts1rj&ep=v1_gifs_search&rid=giphy.gif&ct=g) <br>  
  <br>  
 # About Me
-I'm a hard worker ,I love solving problems on platoforms like Codeforces   
-or leetcode and I like to manage my time well.
+**I'm a hard worker ,I love solving problems on platoforms like Codeforces   
+or leetcode and I like to manage my time well.**
  <br>  
  
 

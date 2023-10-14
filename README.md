@@ -11,13 +11,11 @@ I'm a hard worker ,I love solving problems on platoforms like Codeforces or leet
  
 
 # Skills
-<img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="100" height="100"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="100" height="100">
+<img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="100" height="100"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="100" height="100"><img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" width="100" height="100">
 
 
-<img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" width="100" height="100">
-<img src="https://1.bp.blogspot.com/-kWxCvjwnSpk/YDC0Tr7_pFI/AAAAAAAABIg/zZBwUe4zH3wrjqGn5EFbHvM_YVp4dfePgCLcBGAsYHQ/s350/DS%2BLogo.png" width="100" height="100"><img src="https://as1.ftcdn.net/v2/jpg/02/07/93/48/1000_F_207934815_9SAvVsstsRsLte4WZJf5Z1d9j2DSdM8c.jpg" width="100" height="100">
-<img src="https://w7.pngwing.com/pngs/615/978/png-transparent-developer-development-object-oriented-programming-software-technology-icon.png" width="100" height="100">
-<img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="100" height="100"> 
+
+<img src="https://1.bp.blogspot.com/-kWxCvjwnSpk/YDC0Tr7_pFI/AAAAAAAABIg/zZBwUe4zH3wrjqGn5EFbHvM_YVp4dfePgCLcBGAsYHQ/s350/DS%2BLogo.png" width="100" height="100"><img src="https://as1.ftcdn.net/v2/jpg/02/07/93/48/1000_F_207934815_9SAvVsstsRsLte4WZJf5Z1d9j2DSdM8c.jpg" width="100" height="100"><img src="https://w7.pngwing.com/pngs/615/978/png-transparent-developer-development-object-oriented-programming-software-technology-icon.png" width="100" height="100"><img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="100" height="100"> 
 <br>  
 <br>  
 

@@ -29,7 +29,7 @@ I'm a dedicated mobile developer with 2 years of experience in Dart and Flutter.
 
 ## Projects
 
-_[You can add a brief list of your notable projects here]_
+shell project
 
 ## Get in Touch
 

@@ -3,21 +3,19 @@ $ whoami
 👨‍💻 Hassan — Software Engineer | Backend Developer
 
 $ less about.txt
-Experienced backend developer passionate about building scalable web services, APIs, and infrastructure.
-Loves clean code, good architecture, and automation.
+I'm a passionate Software Engineer with a strong foundation in building scalable web applications and a growing focus on backend technologies and system design. I enjoy solving complex problems and bringing ideas to life through clean, efficient code.
 
 🛠 Skilled in:
 
-Python (Flask, FastAPI, Django)
-
+C Programming
+Linux, Shell, System Calls (fork, execve, wait, etc.)
+TypeScript, JavaScript, Node.js
+Python (Flask, FastAPI)
 MySQL, MongoDB, Redis
-
+Algorithms & Data Structures
 Fabric, Railway
-
 RESTful APIs & Hypermedia Pagination
-
 GitHub Actions, CI/CD
-
 System design & backend architecture
 
 🌍 Projects:

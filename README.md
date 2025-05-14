@@ -3,7 +3,9 @@ $ whoami
 👨‍💻 Hassan — Software Engineer | Backend Developer
 
 $ less about.txt
-I'm a passionate Software Engineer with a strong foundation in building scalable web applications and a growing focus on backend technologies and system design. I enjoy solving complex problems and bringing ideas to life through clean, efficient code.
+I'm a passionate Software Engineer with a strong foundation in building scalable web applications and
+a growing focus on backend technologies and system design. I enjoy solving complex problems
+and bringing ideas to life through clean, efficient code.
 
 🛠 Skilled in:
 

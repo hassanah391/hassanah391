@@ -28,10 +28,11 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30" alt="flask logo"  />
   <img width="12" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white height="30" alt="jest logo"  />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="30" alt="jest logo"  />
   <img width="12" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white height="30" alt="jwt logo"  />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="30" alt="jwt logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white="30" alt="mocha logo"  />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"30" alt="nginx logo"  />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"30" alt="postman logo"  />

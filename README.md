@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" alt="Express logo"  />
   <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" height="30" alt="redis logo"  />
   <img width="12" />
-  <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30" alt="flask logo"  />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30" alt="flask logo"  />
+  <img width="12" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white height="30" alt="jest logo"  />
   <img width="12" />

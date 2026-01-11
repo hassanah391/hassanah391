@@ -35,7 +35,7 @@
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=hassanah391&theme=onestar&row=1&column=7"/>
+    <img src="https://github-profile-trophy-one.vercel.app/?username=hassanah391&theme=onestar&row=1&column=7"/>
   </p>
   <br>
 

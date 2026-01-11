@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is hassan teleb and I'm a software engineer specialist in backend, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is hassan ahmed and I'm a software engineer specialist in backend, from Egypt</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanah391&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanah391&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=hassanah391&show_icons=true&layout=compact&theme=dark&cache_seconds=21600" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hassanah391&layout=compact&theme=dark&cache_seconds=21600" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnR3em80OXhhOGpucjhyOHdzN2dwNDFhdGdxc3R2Y3h4cTN0M2N5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVzeGdycDR3dGJ1MmQ1ODRlZzlneDJna2RzNHcxZG1rbXZneTk5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PvvSfSDFoAL5e/giphy.gif"  />
 
 ###
 <h3 align="left">🛠️ Languages & Tools:</h3>

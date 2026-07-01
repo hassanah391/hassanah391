@@ -100,14 +100,6 @@ AI-powered fashion platform — my ITI graduation project. Users can design cust
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy-one.vercel.app/?username=hassanah391&theme=onestar&row=1&column=7"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to discussing backend architecture, .NET, or AI in production. Reach out on [LinkedIn](https://www.linkedin.com/in/hassanah391/) or send me an [email](mailto:hassan.ahmed3577@gmail.com).

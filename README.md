@@ -24,7 +24,7 @@ Users can design custom clothing such as T-shirts, sneakers, pants, and caps usi
 
 `ASP.NET Core 9` `CQRS` `MediatR` `Angular` `JWT Auth` `Clean Architecture` `SQL Server`
 
-> 📌 Want more? Check out [my pinned repos](https://github.com/hassanah391)
+> 📌 Want more? Check out [my pinned repos](https://github.com/hassanah391) below ⬇️
 
 ---
 

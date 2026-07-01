@@ -1,63 +1,131 @@
-<h2 align="left">Hi 👋! My name is hassan ahmed and I'm a software engineer specialist in backend, from Egypt</h2>
+<h1 align="center">Hi, I'm Hassan Ahmed 👋</h1>
 
-###
+<h3 align="center">Backend Software Engineer (.NET) building scalable APIs in Cairo, Egypt 🇪🇬</h3>
+
+<p align="center">
+  <a href="mailto:hassan.ahmed3577@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hassanah391/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/hassan.ahmed3577"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a backend engineer who turns unclear requirements into clean, well-tested APIs. My day-to-day toolkit is **ASP.NET Core, C#, and SQL Server**, with a growing focus on distributed systems and integrating AI capabilities (RAG, LLM APIs) into production backends.
+
+* 🎓 ITI Intensive Code Camp graduate (.NET track) and ALX Software Engineering graduate
+* 🏗️ Focused on clean architecture, CQRS, and system design over short-term fixes
+* 🤖 Currently exploring RAG pipelines and LLM-powered backend services
+* 🌍 Based in Cairo, Egypt — open to relocation and remote roles
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=hassanah391&show_icons=true&layout=compact&theme=dark&cache_seconds=21600" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hassanah391&layout=compact&theme=dark&cache_seconds=21600" height="150" alt="languages graph"  />
+  <img src="https://github.com/hassanah391/github-stats/blob/generated/overview.svg#gh-dark-mode-only" height="170"/>
+  <img src="https://github.com/hassanah391/github-stats/blob/generated/languages.svg#gh-dark-mode-only" height="170"/>
+  <img src="https://github.com/hassanah391/github-stats/blob/generated/overview.svg#gh-light-mode-only" height="170"/>
+  <img src="https://github.com/hassanah391/github-stats/blob/generated/languages.svg#gh-light-mode-only" height="170"/>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVzeGdycDR3dGJ1MmQ1ODRlZzlneDJna2RzNHcxZG1rbXZneTk5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PvvSfSDFoAL5e/giphy.gif"  />
+## 🚀 Tech Stack
 
-###
-<h3 align="left">🛠️ Languages & Tools:</h3>
+**Languages**
 
-<div align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" alt="c logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript logo"  />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="30" alt="python logo"  />
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="node logo"  />
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" alt="Express logo"  />
-  <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" height="30" alt="redis logo"  />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30" alt="flask logo"  />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"30" alt="mongodb logo"  />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white="30" alt="mysql logo"  />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="30" alt="jest logo"  />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="30" alt="jwt logo"  />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white="30" alt="mocha logo"  />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"30" alt="nginx logo"  />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"30" alt="postman logo"  />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"30" alt="linux logo"  />
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**Backend**
+
+<p>
+<img src="https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediatR-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CQRS-00599C?style=for-the-badge"/>
+</p>
+
+**Databases**
+
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+**Frontend**
+
+<p>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+**AI & Modern Development**
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge"/>
+</p>
+
+**Tools**
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 [Atlier AI](https://github.com/FatmaAli111/ITIGraduationProject)
+
+AI-powered fashion platform — my ITI graduation project. Users can design custom clothing (T-shirts, sneakers, pants, caps) using templates, uploads, and AI-generated suggestions.
+
+`ASP.NET Core 9` `CQRS + MediatR` `Angular` `JWT Auth` `Clean Architecture` `SQL Server`
+
+### 🚗 Smart Trip Cost Analyzer
+
+A .NET 9 app that estimates travel costs using route and weather APIs.
+
+`Repository Pattern` `AutoMapper` `ASP.NET Core MVC` `Identity` `Entity Framework Core`
+
+### 🏥 [Hospital Management System](https://github.com/FatmaAli111/HospitalReciptionestManagmentSystem)
+
+Desktop management system for hospital reception and administrative workflows.
+
+`Windows Forms` `Entity Framework` `SQL Server` `N-Tier Architecture`
+
+> 📌 Want more? Check out [my pinned repos](https://github.com/hassanah391) for smaller experiments and course projects.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy-one.vercel.app/?username=hassanah391&theme=onestar&row=1&column=7"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing backend architecture, .NET, or AI in production. Reach out on [LinkedIn](https://www.linkedin.com/in/hassanah391/) or send me an [email](mailto:hassan.ahmed3577@gmail.com).
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/hassanah391/hassanah391/main/output/snake.svg)
+
 </div>
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="left">
-    <img src="https://github-profile-trophy-one.vercel.app/?username=hassanah391&theme=onestar&row=1&column=7"/>
-  </p>
-  <br>
-
-###
-
-<div align="left">
-  <h3 align="left">📤 Connect with Me:</h3>
-  <a href="mailto:hassan.ahmed357753@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/hassan-ahmed-77578b206/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://codeforces.com/profile/hassan.ahmed3577" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="35" alt="codeforces logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hassanah391/hassanah391/main/output/snake.svg" alt="Snake animation" />
-
-###

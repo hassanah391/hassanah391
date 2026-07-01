@@ -5,8 +5,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-I'm a backend engineer focused on building clean, scalable, and well-tested APIs.  
 My main stack is **ASP.NET Core, C#, and SQL Server**, with growing interest in distributed systems and AI-powered backend services.
 
 - 🎓 ITI Intensive Code Camp graduate — .NET track

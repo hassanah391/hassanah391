@@ -96,18 +96,6 @@ AI-powered fashion platform — my ITI graduation project. Users can design cust
 
 `ASP.NET Core 9` `CQRS + MediatR` `Angular` `JWT Auth` `Clean Architecture` `SQL Server`
 
-### 🚗 Smart Trip Cost Analyzer
-
-A .NET 9 app that estimates travel costs using route and weather APIs.
-
-`Repository Pattern` `AutoMapper` `ASP.NET Core MVC` `Identity` `Entity Framework Core`
-
-### 🏥 [Hospital Management System](https://github.com/FatmaAli111/HospitalReciptionestManagmentSystem)
-
-Desktop management system for hospital reception and administrative workflows.
-
-`Windows Forms` `Entity Framework` `SQL Server` `N-Tier Architecture`
-
 > 📌 Want more? Check out [my pinned repos](https://github.com/hassanah391) for smaller experiments and course projects.
 
 ---
@@ -123,9 +111,3 @@ Desktop management system for hospital reception and administrative workflows.
 ## 📫 Let's Connect
 
 I'm always open to discussing backend architecture, .NET, or AI in production. Reach out on [LinkedIn](https://www.linkedin.com/in/hassanah391/) or send me an [email](mailto:hassan.ahmed3577@gmail.com).
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/hassanah391/hassanah391/main/output/snake.svg)
-
-</div>

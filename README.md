@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Hassan Ahmed 👋</h1>
 
 <h3 align="center">Backend Software Engineer (.NET) building scalable APIs in Cairo, Egypt 🇪🇬</h3>
+<p align="center">
+  <a href="https://www.dhassan.me/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -100,8 +105,4 @@ Users can design custom clothing such as T-shirts, sneakers, pants, and caps usi
   </a>
   <a href="https://www.linkedin.com/in/hassanah391/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/hassan.ahmed3577">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-  </a>
 </p>

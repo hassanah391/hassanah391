@@ -2,7 +2,7 @@
 
 <h3 align="center">Backend Software Engineer (.NET) building scalable APIs in Cairo, Egypt 🇪🇬</h3>
 <p align="center">
-  <a href="https://www.dhassan.me/">
+  <a href="https://www.dhassan.me/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
